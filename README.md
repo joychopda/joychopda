@@ -6,7 +6,6 @@
 - 🌱 I’m passionate about SOC operations, threat detection, and improving cybersecurity defenses.
 - 👯 I’m actively seeking entry-level cybersecurity roles to contribute to safeguarding organizations and mitigating cyber risks.
 
-<h3>💼 Security Roles & Focus</h3>
 
 <a href="https://www.isaca.org/resources/cobit" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/fluency/48/governance.png" alt="GRC" width="40" height="40"/>
