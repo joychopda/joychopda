@@ -7,20 +7,6 @@
 - 👯 I’m actively seeking entry-level cybersecurity roles to contribute to safeguarding organizations and mitigating cyber risks.
 
 
-<a href="https://www.isaca.org/resources/cobit" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/fluency/48/governance.png" alt="GRC" width="40" height="40"/>
-</a>
-
-<a href="https://www.sans.org/blue-team-summit/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-security-cyber-security-flat-flat-juicy-fish.png" alt="SOC Analyst" width="40" height="40"/>
-</a>
-
-<a href="https://www.isaca.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/fluency/48/audit.png" alt="IT Audit" width="40" height="40"/>
-</a>
-
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
