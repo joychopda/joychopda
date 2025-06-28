@@ -1,10 +1,9 @@
 ### Hello, I'm Joy
 
-
-	•	👋 Welcome to my GitHub! I’m a recent MS Cybersecurity & Information Assurance grad from Virginia University of Science & Technology.
-	•	📖 I bring a solid foundation in IT security with hands-on experience in SIEM operations, threat monitoring, and audit & compliance frameworks.
-	•	🌱 I’m passionate about SOC operations, threat detection, and building resilient security controls.
-	•	👯 I’m actively seeking SOC Analyst, Cybersecurity Engineer, or GRC Analyst roles where I can help organizations strengthen defenses and stay compliant.
+- 👋 Welcome to my GitHub! I’m a recent MS Cybersecurity & Information Assurance grad from Virginia University of Science & Technology.
+- 📖 I bring a solid foundation in IT security with hands-on experience in SIEM operations, threat monitoring, and audit & compliance frameworks.
+- 🌱 I’m passionate about SOC operations, threat detection, and building resilient security controls.
+- 👯 I’m actively seeking SOC Analyst, Cybersecurity Engineer, or GRC Analyst roles where I can help organizations strengthen defenses and stay compliant.
 
 
 <h3 align="left">Languages and Tools:</h3>
