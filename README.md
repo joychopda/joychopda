@@ -1,41 +1,44 @@
 ### Hello, I'm Joy
 
-- 👋 Welcome to my GitHub! I’m a recent MS Cybersecurity & Information Assurance grad from Virginia University of Science & Technology.
-- 📖 I bring a solid foundation in IT security with hands-on experience in SIEM operations, threat monitoring, and audit & compliance frameworks.
-- 🌱 I’m passionate about SOC operations, threat detection, and building resilient security controls.
-- 👯 I’m actively seeking SOC Analyst, Cybersecurity Engineer, or GRC Analyst roles where I can help organizations strengthen defenses and stay compliant.
+- 👋 Welcome to my GitHub! I’m a recent M.S. Cybersecurity & Information Assurance graduate from Virginia University of Science & Technology.
+- 📖 I bring a technical foundation in cybersecurity, with hands-on experience across SIEM operations, threat monitoring, incident analysis, and audit, compliance frameworks.
+- 🌱 I enjoy understanding security problems end-to-end, from technical root cause to business risk, impact, and remediation strategy.
+- 🤝 I’m building fluency across customer-facing security roles, including SDR, AE, and Solutions Engineering, with an emphasis on discovery, technical validation, and value-based security conversations.
 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.elastic.co" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> 
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> 
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://laravel.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a>&nbsp;&nbsp;&nbsp;
-
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
+<a href="https://www.docker.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+</a>
+<!-- <a href="https://git-scm.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</a> -->
+<a href="https://www.linux.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+</a>
+<a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
+</a>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/>
+</a>
+<a href="https://www.elastic.co" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elastic" width="40" height="40"/>
+</a>
+<a href="https://www.splunk.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/splunk/splunk-original.svg" alt="splunk" width="40" height="40"/>
+</a>
+<a href="https://www.salesforce.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" alt="salesforce" width="40" height="40"/>
+</a>
+<!-- <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/>
+</a> -->
+
